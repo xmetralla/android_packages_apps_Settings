@@ -15,13 +15,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="bluetooth_mas_request">Petició d\'accés als missatges</string>
-    <string name="bluetooth_mas_acceptance_dialog_text">%1$s voldria accedir als teus missatges. Dóna accés a %2$s?</string>
+    <string name="bluetooth_mas_acceptance_dialog_text">%1$s vol accedir als teus missatges. Donc accés a %2$s?</string>
     <string name="bluetooth_mas_remember_choice">No ho preguntis més</string>
     <string name="wifi_mode">Mode</string>
     <string name="wifi_mode_ibss">Xarxa Ad-Hoc (IBSS)</string>
     <string name="wifi_mode_ibss_short">Ad-Hoc</string>
     <string name="wifi_setting_countrycode_title">Codi de regió Wi-Fi</string>
-    <string name="wifi_setting_countrycode_summary">Specifica el codi de regió pel Wi-Fi</string>
+    <string name="wifi_setting_countrycode_summary">Especifica el codi de regió pel Wi-Fi</string>
     <string name="wifi_setting_countrycode_error">Hi ha un problema establint el codi de regió.</string>
     <string name="wifi_setting_priority_title">Prioritat del Wi-Fi</string>
     <string name="wifi_setting_priority_summary">Especifica la prioritat de les xarxes Wi-Fi</string>
